@@ -49,21 +49,35 @@ The Bank Marketing dataset is loaded and analyzed through various data visualiza
 ## Visualizations
 - **Categorical Feature Distributions:** 
 Visualizes the distribution of categorical features using count plots and frequency polygons.
+    - Example of Categorical Feature Distributions - **CountPlot**
+        ![Example of Categorical Feature Distributions - CountPlot](count_plot.png)
 
 - **Frequency Polygon:** 
 Plots frequency polygons for each categorical feature to show the distribution of values.
+    - Example of Frequency Polygon - **Frequency Polygon of Maritial**
+        ![Example of Frequency Polygon - Frequency Polygon of Maritial](frequency_pol.png)
 
 - **Relationship between Categorical Features and Label:** 
 Uses catplots to explore the relationship between categorical features and the label ('deposit').
+    - Example of Relationship between Categorical Features and Label - **catplot(Unknown, Cellular, telephone)**
+        ![Example of Relationship between Categorical Features and Label - catplot(Unknown, Cellular, telephone)](catplots.png)
 
 - **Numerical Feature Distributions:** 
 Visualizes the distribution of numerical features using histograms, density plots, violin plots, bar graphs, box plots, and scatter plots.
+    - Example of Numerical Feature Distributions - **Histogram(Distribution of balance)**
+        ![Example of Numerical Feature Distributions - Histogram(Distribution of balance)](histogram.png)
 
 - **Heatmap:** 
 Displays the correlation heatmap for numerical features.
+    - Example of **Heatmap**
+        ![Example of Heatmap](heatmap.png)
 
 - **Box Plot:** 
 Plots box and whisker plots for numerical features.
+    - Example of **Box Plot (Box Plot of Age)**
+        ![Example of Box Plot (Box Plot of Age)](box_plot.png)
 
 - **Multivariate Analysis:** 
 Includes scatter plots, parallel coordinate plots, and contour plots for multivariate analysis.
+    - Example of Multivariate - **Scatter Plots**
+        ![Example of Multivariate - Scatter Plots](Multivariate.png)
