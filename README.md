@@ -21,7 +21,6 @@ The Bank Marketing dataset is loaded and analyzed through various data visualiza
     ```bash
     git clone https://github.com/ishika-mi/DataVisualization-Banking.git
     cd DataVisualization-Banking
-2. Change 
 2. Install the required libraries by running the following command:
 
    ```bash
