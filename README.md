@@ -1,6 +1,6 @@
 # Bank Marketing Data Visualization
 
-<div align="left"><button><a href="https://colab.research.google.com/github/QuantEcon/workshop.africa-july2023/blob/main/day01/exercise_set_1.ipynb"><img src="" heght="20px"/><img
+<div align="left"><button><a href="https://colab.research.google.com/github/QuantEcon/workshop.africa-july2023/blob/main/day01/exercise_set_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" heght="20px"/><img
   src="https://colab.research.google.com/assets/colab-badge.svg"
   alt="open with Colab" width="200px"/></a></button></div>
 
