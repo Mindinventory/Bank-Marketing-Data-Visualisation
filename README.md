@@ -1,7 +1,7 @@
 # Bank Marketing Data Visualization
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-        :target: [https://colab.research.google.com/github/gee-community/geemap/blob/master/docs/notebooks/00_geemap_colab.ipynb](https://colab.research.google.com/drive/11B0ZxnwfIKlnvsuI-ZNTLvzTTjvnywN7?usp=sharing)
+        :target: https://colab.research.google.com/github/gee-community/geemap/blob/master/docs/notebooks/00_geemap_colab.ipynb
 
 ## Introduction
 
